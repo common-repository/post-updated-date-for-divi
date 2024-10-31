@@ -1,0 +1,15 @@
+#: Post Updated Date for Divi en_US translation
+msgid "Shows the post updated or modified date for divi blog posts. Will show only those posts are modified or updated."
+msgstr ""
+
+msgid "Updated:"
+msgstr ""
+
+msgid "Published:"
+msgstr ""
+
+msgid "at"
+msgstr ""
+
+msgid "Scheduled:"
+msgstr ""
